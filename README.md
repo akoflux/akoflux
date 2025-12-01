@@ -45,7 +45,7 @@ Mon objectif : fournir des projets **clairs**, **maintenables**, et **profession
 
 ### Activité
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoflux\&show_icons=true\&theme=default\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### Langages les plus utilisés
 
