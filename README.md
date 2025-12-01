@@ -45,11 +45,11 @@ Mon objectif : fournir des projets **clairs**, **maintenables**, et **profession
 
 ### Activité
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akoflux\&show_icons=true\&theme=default\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoflux\&show_icons=true\&theme=default\&hide_border=true)
 
 ### Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akoflux\&layout=compact\&theme=default\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akoflux\&layout=compact\&theme=default\&hide_border=true)
 
 </div>
 
