@@ -1,93 +1,65 @@
-# 🟣⚡ **AkoFlux — Cyber Neon Interface v3.0 // HyperNeon Edition** ⚡🟣
+# 👨‍💻 **AkoFlux — DABIN Mathis**
 
-<div align="center">
-  <img src="https://i.imgur.com/lW8sF0e.gif" width="650" />
-  <br/>
-  <img src="https://i.imgur.com/8RMxwXj.gif" width="240" />
-  <br/>
-  <strong style="font-size:22px;">Synchronisation du Profil • HoloFlux Chargé</strong>
-</div>
+> Développeur Full Stack • Code propre • Solutions modernes & professionnelles
 
 ---
 
-## 🌐 **Identification // AkoFlux**
+## 🧾 **Présentation**
 
-**Nom :** DABIN Mathis
-**Alias :** AkoFlux
-**Rôle :** Développeur Full Spectrum
-**Statut Système :** ✔ En ligne — Lumière violette détectée
+Bonjour et bienvenue sur mon GitHub ! Je suis **Dabin Mathis (AkoFlux)**, développeur passionné par la création d'applications modernes, performantes et bien structurées.
 
-> Interface pensée en style **Cyberpunk Néon** : sombre, lumineux, holographique.
+Je travaille principalement avec :
 
----
+* **PHP** — Back-end, API, logique serveur
+* **HTML / CSS** — Intégration soignée, UI propre
+* **JavaScript** — Dynamique & interactions
+* **C#** — Applications desktop / outils internes
+* **Python** — Automatisation, scripts, data
 
-## 🔮 **Présentation — HoloMessage Ouvert**
-
-Bienvenue dans mon univers numérique, un espace où la technologie rencontre l’esthétique cyberpunk.
-Je conçois des interfaces, systèmes et applications avec une signature visuelle **néon violette**, inspirée des rues lumineuses et des architectures futuristes.
-
-Je maîtrise : **PHP • HTML • CSS • JS • C# • Python**
-
-> Mon objectif : Combiner ambiance futuriste + efficacité technique.
+Mon objectif : fournir des projets **clairs**, **maintenables**, et **professionnels**.
 
 ---
 
-## 🧬 **Stack Technique — Projection Holographique**
+## 🛠️ **Compétences Techniques**
 
-<div align="center">
-
-<img src="https://i.imgur.com/fXWF8Yf.gif" width="200" />
-
-| Technologie    | Statut          | Description                             |
-| -------------- | --------------- | --------------------------------------- |
-| **PHP**        | ⚡ Actif         | Back-end modulable, API, logique métier |
-| **HTML**       | ✨ Stable        | Structures adaptatives                  |
-| **CSS**        | 🔥 Dynamique    | Néon, glow, interfaces futuristes       |
-| **JavaScript** | ⚙️ Réactif      | Interactions & animations               |
-| **C#**         | 💠 Opérationnel | Développement logiciel                  |
-| **Python**     | 🚀 Polyvalent   | IA, scripts, automatisation             |
-
-</div>
+* **Front-end :** HTML, CSS, JavaScript
+* **Back-end :** PHP, Python
+* **Logiciel :** C#
+* **Outils :** Git, GitHub, VS Code, Linux, Docker
 
 ---
 
-## 🛰️ **Dernier Projet — Hologramme en attente**
+## 🚀 **Dernier Projet**
 
-> *(Ajoute ton propre contenu ici)*
+*(Tu peux remplacer le contenu ci-dessous par ton projet actuel)*
 
-```
-◉ Nom du projet : _______________________
-◉ Description : _________________________
-◉ Technologies : ________________________
-```
+**Nom du projet :** *À compléter*
+**Description :** *Description du projet…*
+**Technologies :** *PHP / JS / Python …*
 
 ---
 
-## 📊 **Statistiques Système — Flux en Direct**
+## 📊 **Statistiques GitHub**
 
 <div align="center">
 
-### 🔥 Activité GitHub
+### Activité
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akoflux\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akoflux\&show_icons=true\&theme=default\&hide_border=true)
 
-### 🧠 Langages les plus utilisés
+### Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akoflux\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akoflux\&layout=compact\&theme=default\&hide_border=true)
 
 </div>
 
 ---
 
-## ✉️ **Contact — Canal Sécurisé**
+## 📫 **Contact**
 
-📡 **Email :** *(Ajoute ton mail)*
-💬 **Discord :** *(Ajoute ton pseudo)*
+📧 **Email :** *Ajoute ton email ici*
+💬 **Discord :** *Ajoute ton pseudo ici*
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/0f7dZ0F.gif" width="600" />
-  <br/>
-  <strong>Transmission terminée • Les néons restent actifs.</strong>
-</div>
+Merci de visiter mon profil ! N'hésite pas à explorer mes projets.
