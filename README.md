@@ -45,8 +45,6 @@ Mon objectif : fournir des projets **clairs**, **maintenables**, et **profession
 
 ### Activité
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akoflux)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akoflux\&show_icons=true\&theme=default\&hide_border=true)
 
 ### Langages les plus utilisés
