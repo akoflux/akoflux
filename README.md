@@ -88,7 +88,8 @@ const Mathis = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff" alt="GitHub Stats"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight)
+
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akoflux&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" alt="GitHub Streak"/>
 
