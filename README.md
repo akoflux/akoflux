@@ -87,15 +87,22 @@ const Mathis = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Stats](https://github-readme-stats-git-master-rstaa-r.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight)
-
-![Stats](https://github-readme-stats-akto.vercel.app/api?username=akoflux&show_icons=true&theme=tokyonight)
 
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akoflux&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akoflux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+---
+
+## 📋 Information Profil
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/akoflux?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/akoflux?style=for-the-badge)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=akoflux&theme=onestar&no-frame=true&row=1)
+
 
 </div>
 
