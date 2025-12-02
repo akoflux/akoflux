@@ -158,15 +158,9 @@ me.say_hi()
 
 <div align="center">
 
-### 🔥 Visiteurs
-
-![Visitor Count](https://profile-counter.glitch.me/akoflux/count.svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **💡 « Le code est de la poésie, les bugs sont des défis, et chaque projet est une aventure. »**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Merci+pour+ta+visite+!;N'hésite+pas+à+me+contacter+!;Let's+build+something+amazing+together+!"/>
 
 ---
 
