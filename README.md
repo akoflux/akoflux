@@ -2,7 +2,7 @@
 
 # 🌐 DABIN MATHIS • AKOFLUX
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Développeur+Web+Full-Stack;Créateur+d'Expériences+Digitales;Étudiant+%7C+Passionné+%7C+Innovant" alt="Typing SVG" />
+<img src="images/dev.gif" alt="Typing SVG" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF006E&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
